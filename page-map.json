@@ -1,0 +1,2115 @@
+[
+  {
+    "id": "176",
+    "title": "Two Columns Grid",
+    "route": "/portfolio/with-text/two-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14833",
+    "title": "",
+    "route": "/",
+    "shortcodes": [
+      "vc_column",
+      "vc_row"
+    ]
+  },
+  {
+    "id": "16232",
+    "title": "test",
+    "route": "/",
+    "shortcodes": []
+  },
+  {
+    "id": "178",
+    "title": "Three Columns Grid",
+    "route": "/portfolio/with-text/three-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "180",
+    "title": "Four Columns Grid",
+    "route": "/portfolio/with-text/four-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "182",
+    "title": "Two Columns Grid",
+    "route": "/portfolio/gallery-style/two-columns-grid-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "184",
+    "title": "Three Columns Grid",
+    "route": "/portfolio/gallery-style/three-columns-grid-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "186",
+    "title": "Four Columns Grid",
+    "route": "/portfolio/gallery-style/four-columns-grid-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "188",
+    "title": "Markets",
+    "route": "/portfolio/with-text/markets/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "190",
+    "title": "Six Columns Wide",
+    "route": "/portfolio/with-text/six-columns-wide/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "599",
+    "title": "Large Image",
+    "route": "/blog/large-image-2/",
+    "shortcodes": []
+  },
+  {
+    "id": "605",
+    "title": "Masonry",
+    "route": "/blog/masonry/",
+    "shortcodes": []
+  },
+  {
+    "id": "607",
+    "title": "Medium Image",
+    "route": "/blog/medium-image/",
+    "shortcodes": []
+  },
+  {
+    "id": "1379",
+    "title": "Five Columns Grid",
+    "route": "/portfolio/with-text/five-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "1384",
+    "title": "Portfolio",
+    "route": "/portfolio/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "1388",
+    "title": "Gallery Style",
+    "route": "/portfolio/gallery-style/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "1452",
+    "title": "Contact Us",
+    "route": "/contact/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "1815",
+    "title": "Blog",
+    "route": "/blog/",
+    "shortcodes": []
+  },
+  {
+    "id": "1868",
+    "title": "Large Image With Sidebar",
+    "route": "/blog/large-image/",
+    "shortcodes": []
+  },
+  {
+    "id": "3080",
+    "title": "Clients",
+    "route": "/clients/",
+    "shortcodes": [
+      "image_hover",
+      "vc_column",
+      "vc_column_inner",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "3196",
+    "title": "Typography",
+    "route": "/typography/",
+    "shortcodes": [
+      "blockquote",
+      "custom_font",
+      "dropcaps",
+      "highlight",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5775",
+    "title": "Gallery Style Condensed",
+    "route": "/portfolio/gallery-style-condensed/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5781",
+    "title": "Two Columns Grid",
+    "route": "/portfolio/gallery-style-condensed/two-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5783",
+    "title": "Three Columns Grid",
+    "route": "/portfolio/gallery-style-condensed/three-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5786",
+    "title": "Four Columns Grid",
+    "route": "/portfolio/gallery-style-condensed/four-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5789",
+    "title": "Four Columns Wide",
+    "route": "/portfolio/gallery-style-condensed/four-columns-wide/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5791",
+    "title": "Five Columns Wide",
+    "route": "/portfolio/gallery-style-condensed/five-columns-wide/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5801",
+    "title": "Six Columns Wide",
+    "route": "/portfolio/gallery-style-condensed/six-columns-wide/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5812",
+    "title": "Four Columns Wide",
+    "route": "/portfolio/gallery-style/four-columns-wide/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5823",
+    "title": "Five Columns Wide",
+    "route": "/portfolio/gallery-style/five-columns-wide-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5825",
+    "title": "Six Columns Wide",
+    "route": "/portfolio/gallery-style/six-columns-wide-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5856",
+    "title": "Two Columns Grid",
+    "route": "/portfolio/with-text-condensed/two-columns-grid-3/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5860",
+    "title": "Three Columns Grid",
+    "route": "/portfolio/with-text-condensed/three-columns-grid-3/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5862",
+    "title": "Four Columns Wide",
+    "route": "/portfolio/with-text-condensed/four-columns-wide/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5864",
+    "title": "Four Columns Grid",
+    "route": "/portfolio/with-text-condensed/four-columns-grid-3/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5867",
+    "title": "Five Columns Wide",
+    "route": "/portfolio/with-text-condensed/five-columns-wide-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5870",
+    "title": "Six Columns Wide",
+    "route": "/portfolio/with-text-condensed/six-columns-wide-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5922",
+    "title": "Four Columns Wide",
+    "route": "/portfolio/with-text/four-columns-wide-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5928",
+    "title": "Five Columns Grid",
+    "route": "/portfolio/with-text-condensed/five-columns-grid-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5932",
+    "title": "Five Columns Grid",
+    "route": "/portfolio/gallery-style/five-columns-grid-2/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5944",
+    "title": "Five Columns Grid",
+    "route": "/portfolio/gallery-style-condensed/five-columns-grid/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5990",
+    "title": "Industries",
+    "route": "/portfolio/with-text/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "5995",
+    "title": "With Text Condensed",
+    "route": "/portfolio/with-text-condensed/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "9619",
+    "title": "Our Team",
+    "route": "/our-team/",
+    "shortcodes": [
+      "q_team",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "9894",
+    "title": "Small Image",
+    "route": "/blog/small-image/",
+    "shortcodes": []
+  },
+  {
+    "id": "9897",
+    "title": "Small Image With Sidebar",
+    "route": "/blog/small-image-with-sidebar/",
+    "shortcodes": []
+  },
+  {
+    "id": "10432",
+    "title": "With Section Menu",
+    "route": "/with-section-menu/",
+    "shortcodes": [
+      "icon_text",
+      "icons",
+      "latest_post",
+      "portfolio_list",
+      "qode_client",
+      "qode_clients",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "11313",
+    "title": "Shop Product List",
+    "route": "/shop-2/",
+    "shortcodes": [
+      "recent_products",
+      "vc_column",
+      "vc_row"
+    ]
+  },
+  {
+    "id": "12034",
+    "title": "Shop",
+    "route": "/shop/",
+    "shortcodes": []
+  },
+  {
+    "id": "12035",
+    "title": "Cart",
+    "route": "/cart/",
+    "shortcodes": [
+      "woocommerce_cart"
+    ]
+  },
+  {
+    "id": "12036",
+    "title": "Checkout",
+    "route": "/checkout/",
+    "shortcodes": [
+      "woocommerce_checkout"
+    ]
+  },
+  {
+    "id": "12037",
+    "title": "My Account",
+    "route": "/my-account/",
+    "shortcodes": [
+      "woocommerce_my_account"
+    ]
+  },
+  {
+    "id": "13134",
+    "title": "Home 27",
+    "route": "/home-27/",
+    "shortcodes": [
+      "action",
+      "button",
+      "icon_text",
+      "portfolio_slider",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "13242",
+    "title": "Home Long",
+    "route": "/home-long/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "cover_boxes",
+      "custom_font",
+      "dropcaps",
+      "icon_text",
+      "image_with_text_over",
+      "latest_post",
+      "pie_chart_with_icon",
+      "portfolio_list",
+      "portfolio_slider",
+      "progress_bar",
+      "q_team",
+      "qode_carousel",
+      "qode_circle",
+      "qode_circles",
+      "service_table",
+      "testimonials",
+      "unordered_list",
+      "vc_accordion",
+      "vc_accordion_tab",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image",
+      "vc_tab",
+      "vc_tabs"
+    ]
+  },
+  {
+    "id": "13383",
+    "title": "About Our Company Old",
+    "route": "/about-our-company-old/",
+    "shortcodes": [
+      "progress_bar",
+      "qode_carousel",
+      "qode_circle",
+      "qode_circles",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13396",
+    "title": "About Us Old",
+    "route": "/about-us-old/",
+    "shortcodes": [
+      "action",
+      "progress_bar",
+      "q_team",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13436",
+    "title": "Horizontal Progress Bars",
+    "route": "/horizontal-progress-bars/",
+    "shortcodes": [
+      "progress_bar",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13452",
+    "title": "Zero Counters",
+    "route": "/zero-counters/",
+    "shortcodes": [
+      "counter",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13486",
+    "title": "Vertical Progress Bars",
+    "route": "/vertical-progress-bars/",
+    "shortcodes": [
+      "progress_bar_vertical",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13499",
+    "title": "Random Counters",
+    "route": "/random-counters/",
+    "shortcodes": [
+      "counter",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13520",
+    "title": "Icon Progress Bars",
+    "route": "/icon-progress-bars/",
+    "shortcodes": [
+      "progress_bar_icon",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13539",
+    "title": "Pie Charts",
+    "route": "/pie-charts/",
+    "shortcodes": [
+      "pie_chart",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13551",
+    "title": "Pie Chart With Icon",
+    "route": "/pie-chart-icon/",
+    "shortcodes": [
+      "pie_chart_with_icon",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13561",
+    "title": "Process Shortcode",
+    "route": "/process-shortcode/",
+    "shortcodes": [
+      "qode_circle",
+      "qode_circles",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13579",
+    "title": "Tabs",
+    "route": "/tabs/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_tab",
+      "vc_tabs"
+    ]
+  },
+  {
+    "id": "13595",
+    "title": "Pricing Tables",
+    "route": "/pricing-tables/",
+    "shortcodes": [
+      "qode_pricing_table",
+      "qode_pricing_tables",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13609",
+    "title": "Accordion and Toggle",
+    "route": "/accordion-toggle/",
+    "shortcodes": [
+      "vc_accordion",
+      "vc_accordion_tab",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13629",
+    "title": "Cover Boxes",
+    "route": "/cover-boxes/",
+    "shortcodes": [
+      "cover_boxes",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13640",
+    "title": "Message Boxes",
+    "route": "/message-boxes/",
+    "shortcodes": [
+      "message",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13649",
+    "title": "Buttons",
+    "route": "/buttons/",
+    "shortcodes": [
+      "button",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13671",
+    "title": "Service Tables",
+    "route": "/service-tables/",
+    "shortcodes": [
+      "service_table",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13687",
+    "title": "Latest Posts Boxes",
+    "route": "/latest-posts-boxes/",
+    "shortcodes": [
+      "latest_post",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13708",
+    "title": "Latest Posts Small Image",
+    "route": "/latest-posts-small-image/",
+    "shortcodes": [
+      "latest_post",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13721",
+    "title": "Icons",
+    "route": "/icons/",
+    "shortcodes": [
+      "icon_text",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13760",
+    "title": "Call To Action",
+    "route": "/call-to-action/",
+    "shortcodes": [
+      "action",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13770",
+    "title": "Separators",
+    "route": "/separators/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13802",
+    "title": "Lists",
+    "route": "/lists/",
+    "shortcodes": [
+      "icon_list_item",
+      "unordered_list",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13822",
+    "title": "Team",
+    "route": "/team/",
+    "shortcodes": [
+      "q_team",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13836",
+    "title": "Clients Carousel",
+    "route": "/carousel/",
+    "shortcodes": [
+      "qode_carousel",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13846",
+    "title": "Testimonials",
+    "route": "/testimonials/",
+    "shortcodes": [
+      "testimonials",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13859",
+    "title": "Parallax",
+    "route": "/parallax/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13869",
+    "title": "Interactive Banners",
+    "route": "/interactive-banners/",
+    "shortcodes": [
+      "button",
+      "image_with_text_over",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13880",
+    "title": "Gallery With Frame",
+    "route": "/gallery-frame/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13886",
+    "title": "Portfolio Slider",
+    "route": "/portfolio-slider/",
+    "shortcodes": [
+      "portfolio_slider",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13891",
+    "title": "Image Gallery",
+    "route": "/image-gallery/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13898",
+    "title": "Social Icons",
+    "route": "/social-icons/",
+    "shortcodes": [
+      "social_icons",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13927",
+    "title": "Expandable Sections",
+    "route": "/expandable/",
+    "shortcodes": [
+      "progress_bar",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13939",
+    "title": "Columns",
+    "route": "/columns/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13952",
+    "title": "Dropcaps",
+    "route": "/dropcaps/",
+    "shortcodes": [
+      "dropcaps",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13962",
+    "title": "Headings",
+    "route": "/headings/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13971",
+    "title": "Blockquotes",
+    "route": "/blockquotes/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "13982",
+    "title": "Highlights",
+    "route": "/highlights/",
+    "shortcodes": [
+      "highlight",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14006",
+    "title": "Home 3",
+    "route": "/home-3/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "custom_font",
+      "qode_carousel",
+      "social_icons",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14057",
+    "title": "Home 6",
+    "route": "/home-6/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "custom_font",
+      "icon_text",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14059",
+    "title": "Custom Fonts",
+    "route": "/custom-fonts/",
+    "shortcodes": [
+      "custom_font",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14093",
+    "title": "Our Process 2",
+    "route": "/our-process-2/",
+    "shortcodes": [
+      "button",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14154",
+    "title": "Welcome To Parallax Presentation",
+    "route": "/parallax-presentation/",
+    "shortcodes": [
+      "counter",
+      "custom_font",
+      "social_icons",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14229",
+    "title": "Home 10",
+    "route": "/home-10/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "unordered_list",
+      "vc_accordion",
+      "vc_accordion_tab",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14239",
+    "title": "Home 11",
+    "route": "/home-11/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "testimonials",
+      "unordered_list",
+      "vc_accordion",
+      "vc_accordion_tab",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14253",
+    "title": "Home 12",
+    "route": "/home-12/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "unordered_list",
+      "vc_accordion",
+      "vc_accordion_tab",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14273",
+    "title": "Home 13",
+    "route": "/home-13/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14282",
+    "title": "Home 14",
+    "route": "/home-14/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "unordered_list",
+      "vc_accordion",
+      "vc_accordion_tab",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14304",
+    "title": "Home 4",
+    "route": "/home-4/",
+    "shortcodes": [
+      "counter",
+      "icon_text",
+      "latest_post",
+      "portfolio_list",
+      "qode_carousel",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14358",
+    "title": "Layer Slider",
+    "route": "/layer-slider/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14362",
+    "title": "Home 17",
+    "route": "/home-17/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14378",
+    "title": "Home 5",
+    "route": "/home-5/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14381",
+    "title": "Semitransparent Header",
+    "route": "/semitransparent-header/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14391",
+    "title": "White Header",
+    "route": "/white-header/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_slider",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14430",
+    "title": "Home 21",
+    "route": "/home-21/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14433",
+    "title": "Home 22",
+    "route": "/home-22/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14462",
+    "title": "Zoom Out",
+    "route": "/home-24/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14468",
+    "title": "Home Original",
+    "route": "/home-original/",
+    "shortcodes": [
+      "action",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "q_team",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14471",
+    "title": "Home 26",
+    "route": "/home-26/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "14479",
+    "title": "Full Width Page",
+    "route": "/full-width-page/",
+    "shortcodes": [
+      "blockquote",
+      "dropcaps",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14490",
+    "title": "Cover Galleries",
+    "route": "/cover-galleries/",
+    "shortcodes": [
+      "cover_boxes",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14495",
+    "title": "Services",
+    "route": "/services/",
+    "shortcodes": [
+      "qode_circle",
+      "qode_circles",
+      "service_table",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14536",
+    "title": "Left Sidebar",
+    "route": "/left-sidebar/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14542",
+    "title": "Right Sidebar",
+    "route": "/right-sidebar/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14567",
+    "title": "Responsive Image",
+    "route": "/responsive-image/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14574",
+    "title": "Zoom Out Parallax",
+    "route": "/zoom-out-parallax/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14579",
+    "title": "Regular Parallax",
+    "route": "/regular-parallax/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14583",
+    "title": "Mono-Color Header",
+    "route": "/portfolio/with-text/mono-color-header/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14586",
+    "title": "Uncovering Header",
+    "route": "/uncovering-header/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14590",
+    "title": "Text Animation Header",
+    "route": "/text-animation-header/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14595",
+    "title": "Video Header",
+    "route": "/video-header/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14598",
+    "title": "Transparent Menu",
+    "route": "/transparent-menu/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14600",
+    "title": "Black Menu",
+    "route": "/black-menu/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14602",
+    "title": "White Menu",
+    "route": "/white-menu/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14661",
+    "title": "Portfolio Masonry",
+    "route": "/portfolio-masonry/",
+    "shortcodes": [
+      "portfolio_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "14825",
+    "title": "Standard Header",
+    "route": "/standard-header/",
+    "shortcodes": [
+      "blockquote",
+      "vc_column",
+      "vc_column_text",
+      "vc_row",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "15058",
+    "title": "Home 2",
+    "route": "/home-2/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "q_team",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15173",
+    "title": "Home Extended",
+    "route": "/home-extended/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "q_team",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15230",
+    "title": "Home Extended 2",
+    "route": "/home-extended-2/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15234",
+    "title": "Home Business",
+    "route": "/home-business/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15284",
+    "title": "About The Company",
+    "route": "/about-the-company/",
+    "shortcodes": [
+      "icon_text",
+      "progress_bar",
+      "q_team",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "15338",
+    "title": "Our Services",
+    "route": "/solutions/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15400",
+    "title": "Home Extended 4",
+    "route": "/home-extended-4/",
+    "shortcodes": [
+      "action",
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_gallery",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15421",
+    "title": "About The Company 2",
+    "route": "/about-the-company-2/",
+    "shortcodes": [
+      "icon_text",
+      "progress_bar",
+      "q_team",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "15676",
+    "title": "Home Agency",
+    "route": "/home-agency/",
+    "shortcodes": [
+      "button",
+      "counter",
+      "icon_text",
+      "portfolio_list",
+      "portfolio_slider",
+      "qode_carousel",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15694",
+    "title": "Home Old",
+    "route": "/home-old/",
+    "shortcodes": [
+      "counter",
+      "icon_text",
+      "testimonials",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15766",
+    "title": "Our Creative Process",
+    "route": "/our-creative-process/",
+    "shortcodes": [
+      "button",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15790",
+    "title": "About Us",
+    "route": "/about-us/",
+    "shortcodes": [
+      "counter",
+      "image_hover",
+      "pie_chart",
+      "progress_bar",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator"
+    ]
+  },
+  {
+    "id": "15848",
+    "title": "test",
+    "route": "/test-4/",
+    "shortcodes": [
+      "vc_column",
+      "vc_row",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Technical Data Sheets",
+    "route": "/techdata/",
+    "shortcodes": [
+      "unordered_list",
+      "vc_column",
+      "vc_row",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "15890",
+    "title": "test",
+    "route": "/test-5/",
+    "shortcodes": [
+      "button",
+      "vc_column",
+      "vc_row"
+    ]
+  },
+  {
+    "id": "15984",
+    "title": "Home",
+    "route": "/",
+    "shortcodes": [
+      "action",
+      "portfolio_list",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "16043",
+    "title": "test",
+    "route": "/test-6/",
+    "shortcodes": [
+      "button",
+      "vc_column",
+      "vc_row"
+    ]
+  },
+  {
+    "id": "16055",
+    "title": "About Our Company",
+    "route": "/about-our-company/",
+    "shortcodes": [
+      "button",
+      "pie_chart",
+      "progress_bar",
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  },
+  {
+    "id": "16233",
+    "title": "test",
+    "route": "/test-7/",
+    "shortcodes": [
+      "button",
+      "vc_column",
+      "vc_row"
+    ]
+  },
+  {
+    "id": "16716",
+    "title": "Inks",
+    "route": "/portfolio_page/inks/",
+    "shortcodes": []
+  },
+  {
+    "id": "16756",
+    "title": "Oil and Gas",
+    "route": "/portfolio_page/oil-and-gas/",
+    "shortcodes": []
+  },
+  {
+    "id": "16759",
+    "title": "Lubricants",
+    "route": "/portfolio_page/lubricants/",
+    "shortcodes": [
+      "mm"
+    ]
+  },
+  {
+    "id": "16764",
+    "title": "Silicone Sealants",
+    "route": "/portfolio_page/silicone-sealants/",
+    "shortcodes": []
+  },
+  {
+    "id": "16769",
+    "title": "Water Treatment",
+    "route": "/portfolio_page/water-treatment/",
+    "shortcodes": []
+  },
+  {
+    "id": "16773",
+    "title": "Glues and Adhesives",
+    "route": "/portfolio_page/glues-and-adhesives/",
+    "shortcodes": []
+  },
+  {
+    "id": "16776",
+    "title": "PVC Plastisols",
+    "route": "/portfolio_page/pvc-plastisols/",
+    "shortcodes": []
+  },
+  {
+    "id": "16781",
+    "title": "Rubber Industry",
+    "route": "/portfolio_page/rubber-industry/",
+    "shortcodes": []
+  },
+  {
+    "id": "16784",
+    "title": "Cosmetics",
+    "route": "/portfolio_page/cosmetics/",
+    "shortcodes": []
+  },
+  {
+    "id": "16787",
+    "title": "Petrochemicals",
+    "route": "/portfolio_page/methycyclohexane/",
+    "shortcodes": []
+  },
+  {
+    "id": "16872",
+    "title": "About",
+    "route": "/about/",
+    "shortcodes": [
+      "vc_column",
+      "vc_column_inner",
+      "vc_column_text",
+      "vc_row",
+      "vc_row_inner",
+      "vc_separator",
+      "vc_single_image"
+    ]
+  }
+]

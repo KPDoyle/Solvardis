@@ -1,0 +1,8 @@
+{
+  "name": "solvardis-static-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node serve.mjs", "check": "node validate.mjs"},
+  "engines": {"node": ">=20"}
+}
