@@ -83,15 +83,3 @@ padding: 0px !important;
 .side_menu h5, .side_menu h6 { font-size: 14px; }
 
 .side_menu .widget li { font-size: 13px; }
-
-footer .solvardis-footer-logo {
-	display: inline-block;
-	width: min(220px, 100%);
-	line-height: 0;
-}
-
-footer .solvardis-footer-logo img {
-	display: block;
-	width: 100%;
-	height: auto;
-}
