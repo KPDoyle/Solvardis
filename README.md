@@ -39,4 +39,4 @@ node validate.mjs
 python3 capture.py --export data/export.json --uploads /path/to/solvardis-uploads.zip
 ```
 
-Recapture requires network access to `http://pi2.local:8082`. Normal use of the delivered site does not. The captures and original desktop/mobile comparison screenshots are supplied alongside this project. Representative visual QA used 1440×1000 desktop and 390×844 mobile viewports; it included the homepage, About, Services, Industries, an industry detail, data sheets, mobile menu and contact map. Not every legacy theme demonstration page was manually inspected.
+Recapture requires access to the original WordPress source configured in `capture.py`; normal use of the delivered site does not. The production validation rejects any remaining source-host or localhost references in deployable files. The captures and original desktop/mobile comparison screenshots are supplied alongside this project. Representative visual QA used 1440×1000 desktop and 390×844 mobile viewports; it included the homepage, About, Services, Industries, an industry detail, data sheets, mobile menu and contact map. Not every legacy theme demonstration page was manually inspected.
